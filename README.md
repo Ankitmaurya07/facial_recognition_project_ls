@@ -1,1 +1,1 @@
-in last i have printed photos comparing face detected or not 
+in last i have printed photos comparing face detected or not detected
